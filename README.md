@@ -35,6 +35,9 @@ portscaner
 
 [ip.txt说明]
 ip 192.168.1.1-192.168.2.255 or 192.168.1.3
+
+
+下载地址：https://github.com/sysalong/portscaner/releases/download/suc/default.zip
  
 
 ip.txt内容为示例，请换成自己需要扫描的，可以是一个或是多个。
