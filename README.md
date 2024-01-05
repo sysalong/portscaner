@@ -6,7 +6,7 @@ ____ _ ____
 
 1、此程序需要在cmd中以命令的方式加载参数来运行。
 
-2、程序可将url地址转换为IP地址进行扫描，所有url地址必须以http://开头也可以是https://否则程序无法转换。
+2、程序可将url地址转换为IP地址进行扫描，所有url地址必须以 http:// 开头也可以是 https:// 否则程序无法转换。
 
 3、可以把要扫描的多个“IP”以每行一个的形式 或者 某个“IP段”放入与程序同目录下的ip.txt中，程序会自动读取文件开始扫描。
 
@@ -43,7 +43,7 @@ portscaner
 ip 192.168.1.1-192.168.2.255 or 192.168.1.3
 
 
-下载地址：https://github.com/sysalong/portscaner/releases/download/suc/default.zip
+下载地址：https://github.com/sysalong/portscaner/releases/download/v5.1/default.zip
  
 
 ip.txt内容为示例，请换成自己需要扫描的，可以是一个或是多个。
